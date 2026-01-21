@@ -1,0 +1,7 @@
+data: 'dataset.yaml'  # Path to the dataset configuration file
+imgsz: 1280          # Image size
+epochs: 30            # Number of epochs to train
+batch: 8             # Batch size
+name: 'yolov8n_e' # Experiment name
+workers: 4           # Number of data loading workers
+plots: False         # Disable plot generation during training

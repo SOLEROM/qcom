@@ -1,0 +1,13 @@
+path: /app/dataset/
+train: "train/images"
+val: "valid/images"
+
+# class names
+names:
+  # Add class names in the format
+  # 0: 'name_of_class_0'
+  # 1: 'name_of_class_1'
+  # 2: 'name_of_class_2'
+  # ...
+
+
